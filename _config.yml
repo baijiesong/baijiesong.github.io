@@ -21,7 +21,7 @@ repository               : "baijiesong/baijiesong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/baijiesong.png"
+  avatar           : "./images/baijiesong.png"
   name             : "Bai Jiesong"
   pronouns         : # example: "He/his"  
   bio              : "I'm Undergraduate Student @shanghaiuniversity"
