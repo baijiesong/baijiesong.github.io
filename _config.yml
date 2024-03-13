@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Bai Jiesong"
 description              : &description "an undergraduate student Shanghai University"
 url                      : https://baijiesong.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" 
 repository               : "baijiesong/baijiesong.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
